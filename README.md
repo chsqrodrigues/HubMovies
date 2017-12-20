@@ -3,9 +3,9 @@
 HubMovies is a simple app for the purpose of listing the next releases of movies, the app allows you to search the movies and see a description of the same.
 
 ## Screens
-![Screenshot](screen_list.png)
-![Screenshot](screen_details.png)
-![Screenshot](screen_search.png)
+![Screenshot](screen_list.PNG)
+![Screenshot](screen_details.PNG)
+![Screenshot](screen_search.PNG)
 
 ### Libraries We Use
 
