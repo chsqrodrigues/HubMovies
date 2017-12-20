@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  BIIS
+
+  Created by Carlos Henrique Siqueira Rodrigues on 25/11/17.
+  Copyright © 2017 Brasil Tecnologia. All rights reserved.
+*/
+
+//Global
+"errorServiceGeneric" = "Ocoreu um erro inesperado! Por favor tente novamente mais tarde";
+"alert" = "Alerta";
+"yes" = "Sim";
+"no" = "Não";
+"cancel" = "Cancelar";
+"equalPassword" = "As senhas devem ser iguais";
+"expiredSession" = "Sua sessão expirou. Por favor faça login novamente!";
+
+//BISSTextField
+"fieldRequired" = "Campo Obrigatório";
+"cpfInvalid" = "CPF Inválido";
+"cardInvalid" = "Número de cartão inválido";
+"nameInvalid" = "Nome inválido";
+"cellInvalid" = "Celular inválido";
+"emailInvalid" = "Email inválido";
+"phoneInvalid" = "Telefone inválido";
